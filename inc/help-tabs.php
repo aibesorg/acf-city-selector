@@ -133,4 +133,3 @@
 
 		return $old_help;
 	}
-	add_filter( 'contextual_help', 'acfcs_help_tabs', 5, 3 );
