@@ -69,7 +69,6 @@
 				$this->acfcs_check_uploads_folder();
 				$this->acfcs_check_table();
 
-				include( 'inc/donate-box.php' );
 				include( 'inc/help-tabs.php' );
 				include( 'inc/country-field.php' );
 				include( 'inc/verify-csv-data.php' );
